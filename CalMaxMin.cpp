@@ -2,7 +2,7 @@
 //
 // FileName:      CalMaxMin.cpp  
 // Author:        gaopc
-// Date:      2022/11/21
+// Date:      2022/11/22
 // Description:   计算图像最大最小值
 // Function List:  
 // History:              
