@@ -7,7 +7,7 @@
 // Function List:  
 // History:              
 //          <author>      <time>       <desc>        
-//            gaopc          2021/11/22    Build
+//            gaopc          2022/11/22    Build
 //
 //***************************************************************************
 
@@ -17,7 +17,7 @@
 //***********
 
 
-// 获取Raw图片的最大值和最小值
+// 获取Raw图像的最大值和最小值
 // .h
 template<typename T>
 void GetMaxAndMin(T* raw, int width, int height, T& min, T& max)
@@ -39,7 +39,7 @@ void GetMaxAndMin(T* raw, int width, int height, T& min, T& max)
 }
 
 
-//调用,需要引入上面的.cpp文件
+//调用.cpp文件
 double min = 0.0;
 double max = 0.0;
 GetMaxAndMin(raw,m_nWidth,m_nHeight,min,max)
