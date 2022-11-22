@@ -2,7 +2,7 @@
 //
 // FileName:      CalMean.cpp  
 // Author:        gaopc
-// Date:      2022/11/21
+// Date:      2022/11/22
 // Description:   计算raw图像均值
 // Function List:  
 // History:              
