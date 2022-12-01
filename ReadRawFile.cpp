@@ -1,6 +1,6 @@
 //***************************************************************************
 //
-// FileName:      ReadRawimg.cpp  
+// FileName:      ReadRawFile.cpp  
 // Author:        gaopc
 // Date:      2022/11/21
 // Description:   16位raw图像读取
