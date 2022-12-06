@@ -3,11 +3,11 @@
 // FileName:      Gammacorrection.cpp 
 // Author:        gaopc
 // Date:      2022/12/06
-// Description:   计算raw图像均值
+// Description:   伽马矫正
 // Function List:  
 // History:              
 //          <author>      <time>       <desc>        
-//            gaopc          2022/12/06    Build
+//            gaopc       2022/12/06    Build
 //
 //***************************************************************************
 
